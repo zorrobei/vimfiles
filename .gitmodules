@@ -1,0 +1,18 @@
+[submodule "pack/themes/start/dracula"]
+	path = pack/themes/start/dracula
+	url = https://github.com/dracula/vim.git
+[submodule "pack/dist/start/vim-airline"]
+	path = pack/dist/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/dist/start/nerdcommenter"]
+	path = pack/dist/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "pack/dist/start/vim-surround"]
+	path = pack/dist/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/dist/start/vim-indent-guides"]
+	path = pack/dist/start/vim-indent-guides
+	url = https://github.com/preservim/vim-indent-guides.git
+[submodule "pack/dist/start/auto-pairs"]
+	path = pack/dist/start/auto-pairs
+	url = https://github.com/LunarWatcher/auto-pairs.git
