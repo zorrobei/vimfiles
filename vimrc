@@ -37,6 +37,9 @@ set smartindent
 " 21 命令行编辑
 set history=2000
 
+" 25 语言特定
+set iminsert=2
+
 " vim-airline
 " Automatically displays all buffers when there's only one tab open.
 let g:airline#extensions#tabline#enabled=1
